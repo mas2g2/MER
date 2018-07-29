@@ -1,6 +1,6 @@
 7/27/2018
 Email : mileshshah@gmail.com
-Phone : (417)693-3867
+
 
 Program name: MER (Multimodal Emotion Recognition) 
 
