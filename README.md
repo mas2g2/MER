@@ -35,6 +35,7 @@ To run this program you must install the following python packages:
 - json
 - Pillow
 - pydub
+
 The facial expression recognition module and training datasets from the following URL was used for this software:
  https://github.com/jrishabh96/Facial-Expression-Recognition 
  https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
